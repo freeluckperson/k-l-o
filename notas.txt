@@ -1,0 +1,391 @@
+miCv https://nuevo-cv.vercel.app/
+
+https://zeabur.com para deployar
+
+https://meet.google.com/rjz-qvik-qsc link diario
+
+despliegue https://www.youtube.com/watch?v=-KEJ8_yvy0Q&t=156s
+
+1559095704
+
+
+https://www.youtube.com/watch?v=4svU_uATZMI&ab_channel=CodeWithViju CV en react
+
+https://cv.ericksegura5.repl.co/
+
+https://final-project-client-4rzhs5hmi-quirox93.vercel.app/
+
+
+
+https://rise.articulate.com/share/vDHEfwRWwQRF9Vl8dTWjjLFkiujlFgrp#/ PRACTICA DE ENTREVISTAS
+arc() para conseguir trabajo
+
+
+https://dummyjson.com/docs/products api para PRACTICAR
+
+https://es.jooble.org/
+
+CREAR ACORTADOR DE URL
+
+https://final-project-client-lime.vercel.app/
+
+https://www.youtube.com/watch?v=D05ptoe7brY&ab_channel=lasfito
+
+
+
+
+04121036964
+deploy PF https://final-project-client-git-modelproduct-quirox93.vercel.app/
+
+**********************************************************************************************
+variables de entorno de clerk
+
+loyab91781@cwtaa.com pass=1one1one1984
+**********************************************************************************************
+
+
+*en mongodb como puedo relacionar usuarios con productos para que estos usuarios puedan 
+crear productos y puedan agregar a favoritos
+*borrado logico => en codigo dame ejemplo de borrado logico con mongodb y mongoose
+*paginacion
+
+https://restapicrud.ericksegura5.repl.co/products?min=40&max=70
+
+crear rama git checkout -b "nombre de rama"
+crear rama con cambios remotos de otra rama git checkout -b development remote/origin/development
+git push
+git branch -a
+elegir la branch git branch nombre_del_brach_completo
+git fetch - git pull - git log - git rebase - git merge - git stash push - git stash pop
+
+https://www.figma.com/community
+
+////////////////////////////////////////////////////////
+///// VIDEO MIN 2:20 logincon rutas protegidas /////
+///////////////////////////////////////////////////////
+
+https://systemtutos.com/downloadd/minios/
+
+Les dejo por acá el enlace para unirse a la meet: meet.google.com/jxi-vteb-pxu
+
+https://youtu.be/sH9g77J92ns APRENDER git
+
+https://youtu.be/sH9g77J92ns
+-----------------------------------------------------------------------------
+Jhon - Petro - 1One1one                                                      *
+yalod64315@quipas.com                                                        *
+                                                                             *
+user:yalod64315 pass:UPGUPG8SEVSreFya                                        *
+mongodb+srv://yalod64315:UPGUPG8SEVSreFya@clouster0.iy54f0i.mongodb.net/     *
+-----------------------------------------------------------------------------*
+mongodb+srv://node_api:henrypass@cluster0.vdqpxjl.mongodb.net/ string del PF
+
+
+00:00 Introducción
+03:29 Backend Setup
+13:55 Mongodb
+23:58 Registro de Usuarios
+39:42 Creación del Token
+55:01 Creación del Login
+01:01:55 Validar Token
+01:21:23 Task CRUD
+01:40:25 Validación de Datos
+01:57:47 Configuración del Cliente
+02:05:46 Registro de Usuario
+02:20:29 Contexto de Usuario
+02:40:05 Login
+03:00:46 Rutas Protegidas
+03:34:40 Tareas
+03:52:29 Navbar
+04:01:35 Task Delete
+04:15:07 Actualizar Tareas
+04:28:02 Retoques
+
+Código del ejemplo:
+https://github.com/fazt/mern-crud-auth
+/**/-----------------------------------------------------------------------
+
+git rm -r --cached node_modules
+
+import {v2 as cloudinary} from 'cloudinary';
+          
+cloudinary.config({ 
+  cloud_name: 'db8y8eb5s', 
+  api_key: '132569467224211', 
+  api_secret: '2nJNfjY_893J_jVCG1y1kbsQE1U' 
+});
+
+
+db.createUser({
+   user: "mongoadmin",
+   pwd: "mongoadmin",
+   roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+})
+
+
+
+https://docs.google.com/presentation/d/1PKtMw6J1_i-yvJ0ZjuXHxO4fa8fMTk-9ShwahgmougE/edit#slide=id.p2
+
+
+mongoDB name Cluster0 y trabajar con git
+node_api pass: henrypass
+
+nombre del proyecto node_api_rest
+
+https://replit.com/@ErickSegura5/RESTAPICRUD
+
+https://youtu.be/AGMnqfDeDlY
+https://youtu.be/I-MhmB5B6Zk?list=TLPQMjcwNzIwMjOOFRUEwHR5nA
+
+https://www.mongodb.com/docs/atlas/
+https://www.mongodb.com/docs/drivers/node/current/
+/*-*------------------------------------------------------------
+function isPalindrome(str) {
+  var len = str.length;
+  for (var i = 0, j = len - 1; i < j; i++, j--) {
+    if (str[i] !== str[j]) {
+      return false;
+    }
+  }
+  return true;
+}
+
+console.log(isPalindrome('radar'));
+
+
+///////////////////////////CUANDO VAYA A HACER UNA PRESENTACION TOMAR NOTAS/////////////////////////////////////
+
+
+JOB 34:32
+https://www.youtube.com/watch?v=3-sIQuWbf9s&ab_channel=HugoSciangula para el deploy
+
+un PF https://chillingtime.co/airport
+https://www.linkedin.com/feed/update/urn:li:activity:7088525621886115840/
+
+CADENA DE ORACION 16/07/2023 A 06/08/2023
+invest como hacer caramelos y si nuestro nombre puede ser
+borrado del libro de la vida
+
+
+https://wallpapercave.com/wp/T7EjKt1.jpg
+https://i.imgur.com/c9totyN.jpeg
+
+https://wallpapercave.com/video-games-wallpapers
+
+
+https://docs.google.com/spreadsheets/d/1YZXdHvhEQ-L-zRElz6Tft4aFxWQKGm7M_ShCCSknkZQ/edit#gid=0  LINK PI
+
+
+
+himnos de de fuego
+gozo en mi alma E
+gozo yo queria E
+viva la fe E
+Jehova esta en su templo E
+alguien esta decendiendo E
+
+
+https://www.npmjs.com/package/redux-persist para carrritop de compra
+
+
+Romanos 10:9
+2 Corintios 5:10
+
+XSONIC Xtone Pro - Interfaz + cualquier plugging
+
+https://responsively.app/
+https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc
+
+
+******************************************************
+*22/5/2023 LLEGARON LOS POLLOS                       *
+*3/7/23 BENEFICIO                                    *
+pagado a jose 61.9 + 31 + 15=107.9 de 132.5$         *
+los nuevos pollos la cuenta va en 64                 *
+******************************************************
+
+set NODE_OPTIONS=--openssl-legacy-provider
+
+
+
+
+*************************
+NODE                    *
+npm init -y             *****************************
+npm i express morgan nodemon sequelize pg pg-hstore *
+npm install nodemon     *****************************
+npm i dotenv            *
+node --watch el archivo * 
+                        *
+nvm                     *
+nvm install <version>   *
+nvm list                *
+nvm install  16.17.0    *
+nvm use <version>       * 
+*************************
+
+cambiar versiones de NODE https://rise.articulate.com/share/O0SjmUFcjx_3AXSA2lizESbHitgJIOpq#/lessons/KSire0WgNTOeIoTA2xlNr2A9136cqQvP
+
+
+mantener el cv actualizado en linken tener o no tener ingles cuenta mucho
+
+*foto-nombre-area
+*colocar mi presentacion en ingles y español
+*colocar mis otras experiencias laborales mientras justifiquen que dan valor a mi nueva area de conocimiento por ejemplo si di clases
+*postularse directamente en la pagina de la compañia
+*
+
+ESTILOS EN LINEA style={{ color: "white" }}
+
+GPT4=> https://gpt4all.io/installers/gpt4all-0.1.0-win64.exe
+
+Coiled Guitar Cable
+
+amor incomparable carmen villalobos
+
+guitar lesson https://youtu.be/9iMN51lxGRw
+1one1one
+
+PALETA DE COLORES: https://mybrandnewlogo.com/es/generador-de-paleta-de-colores
+                    
+
+DOM=> document object mode
+API=> aplication programing interface
+
+1one1one
+
+tico tico song
+
+Hughes & Kettner AmpMan Modern
+
+
+
+//////para crear Formularios con react mas facil React Hook Forms//////////
+///////////////APRENDER Redux Toolkit///////////////////
+yng => https://youtu.be/yn8vSkrN-dI
+
+VER ESTE VIDEO https://youtu.be/WjkolcG8oVk
+deployar backend -> https://youtu.be/h3NVEN2iy6k
+CREAR CARD => https://youtu.be/2-P5kyQjoZY
+CSS CARD=> https://uiverse.io/cards
+PROYECTO CON REACT -> https://youtu.be/B9tDYAZZxcE
+PROYECTO CON POKEAPI -> https://youtu.be/BVQrG-Bp-94
+PROYECTO REACT Y EXPRESS-> https://youtu.be/zbFvJML8PS4
+GIT Y GITHUB https://youtu.be/EtM5RYkQTHM
+hacer conversor de monedas --> https://youtu.be/hlAXRJ384L4
+5 proyecto con react -> https://youtu.be/oT-feDPuJmk
+
+********************************************************
+GM7->Bm pentatonica                                    *
+D7sus4->Am pentatonica                                 *
+progresion BM7 - D7sus4 - GM7 - Bb7sus4 - EbM7 - D7sus4*
+********************************************************
+
+binance 0xe81a27319972019ea436f6dabc8fb059df4f5ae6
+
+
+token github: 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
+
+donoro6749@ngopy.com chatGPT 1one1one
+
+cuenta bing clave: 1uno2dos3tres
+iA para resolver codigo https://www.bing.com/new?form=MY028Z&OCID=MY028Z
+
+DISCORDS
+PP https://discord.gg/YTY832t5
+https://discord.gg/CaNYCXkfp2
+pass: gestionecesaria@gmail.com
+
+
+
+
+ ft 12 https://vimeo.com/user/112886970/folder/3907274
+ ft 14 https://vimeo.com/user/112886970/folder/4398593
+ ft 9 https://vimeo.com/user/112886970/folder/3137622
+
+
+
+
+******************************************************************************
+
+***************************************************************************
+/*configuracion de identidad en git*/                                     *
+--> git config user.name freeluckperson                                   *
+--> git config user.email gestionecesaria@gmail.com                       *
+--> git config user.password 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     *
+                                                                          *
+/*guardar cambios de repositorio local en github*/                        *
+--> git status --> git add . --> git status --> git commit -m 'comentario'* 
+--> git push                                                              *
+passGitHub 1one1one1984                                                   *
+postgre 1uno2dos PORT 5432                                                *
+***************************************************************************
+***************************************************************************
+INICIAR UN PROYECTO CON REACT                                             *
+                                                                          *
+-npx create-react-app my-demo                                             *
+                                                                          *
+Ahora puedes ejecutar tu aplicación con:                                   *
+  -npm start                                                               *     
+                                                                           *
+****************************************************************************
+****************************************************************************
+Hola, Erick Daniel Segura Cabello!                                         *
+                                                                           *
+Por medio de este email te hacemos llegar la API KEY que utilizarás en tu  *
+proyecto integrador!                                                       *
+Es muy importante que la guardes bien, ya que será clave para poder hacer  *
+las requests necesarias en el desarrollo de tu proyecto                    *
+                                                                           *
+? TU API KEY: 101fd7727dda.43d7d1be8eedea1988ec  ?                         *
+****************************************************************************
+https://rawg.io/                                                            *
+pass: vacavieja                                                             *
+user: erickGamer007                                                         *
+Api Key: cf104dbcf19d4e72811f8f529b793ad8                                   *
+Describe in a few words how you would like to use RAWG’s API                *
+primera apikey                                                              *
+*****************************************************************************
+04249016723 
+
+1One1one/
+
+flickr---password: 1one1one1984
+computrabajo ---password: 1one1one1984
+discord -1one1one1984
+linkend -1one1one1984
+jooble -1one1one1984
+mi correo 1one2two
+portal henry 1One1one1984/
+discord vacavieja07*
+
+Vzla user: pericoviejo
+        pass: Vacavieja07*
+
+BANESCO user: pericoviej 
+        pass: vacavieja07*
+preguntas seguridad
+abuela: genoveva - apellido del padre: segura - nombre de mascota: tigre
+pasatiempo: trabajar
+
+FAQ CV - https://docs.google.com/document/d/1SqjY8JIm2V2ut0xBA3hSeCP-O94HTY_B8NXvXDmWhzg/edit
+Template de CV FullStack - https://docs.google.com/document/d/1MR-vzQCvTVLTaMZRNS-yy27EozsN74yx39UPcIiFBOM/edit
+Guía de template CV HENRY - https://view.genial.ly/627a8178d6b5e700111d5533/interactive-content-cv-henry-template
+ - https://docs.google.com/document/d/1P_sX9UjNHIHF1PNUS2f5lWxp-asxNBd3vEIbrhclkGY/edit
+Storytelling - https://www.youtube.com/watch?v=2b3xG_YjgvI&ab_channel=iurisdocTV
+Video presentación - https://www.youtube.com/watch?v=nV6rXd_vtNY
+
+cultivo de merey
+
+
+*auth
+*carrito
+
+  ///////////////////////////////
+ ///TUTORIALES DESARROLLO WEB///
+///////////////////////////////
+
+https://www.youtube.com/@codigofacilito/playlists
+
+
+
